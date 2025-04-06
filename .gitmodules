@@ -1,0 +1,6 @@
+[submodule "Aula-Git"]
+	path = Aula-Git
+	url = https://github.com/fcaldart/Aula-Git.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/fcaldart/Aula-Git.git
